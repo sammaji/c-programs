@@ -1,3 +1,7 @@
 # executables
 *.exe
 */*.exe
+
+# text files
+*.txt
+*/*.txt
