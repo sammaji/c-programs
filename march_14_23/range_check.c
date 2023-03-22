@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main(){
+int main(){
     float num;
     printf("Enter the floating point value: ");
     scanf("%f",&num);
@@ -8,4 +8,6 @@ void main(){
     else if(num>50 && num<=80) printf("Number is in the range 50-80\n");
     else if(num>80 && num<=100) printf("Number is in the range 80-100\n");
     else printf("Wrong Input\n");
+
+    return 0;
 }
