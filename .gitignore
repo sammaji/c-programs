@@ -5,3 +5,6 @@
 # text files
 *.txt
 */*.txt
+
+# c files in the root directory
+/*.c
